@@ -47,4 +47,4 @@ This project demonstrates how Microsoft Excel can be used to transform sales dat
 
 Aliya Shaikh
 
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
+  Excel | SQL | Python | Power BI
